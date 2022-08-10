@@ -1,16 +1,14 @@
 # vintage_cars
 
-A new Flutter project.
+Design Vintage car
 
-## Getting Started
+## Source design
 
-This project is a starting point for a Flutter application.
+https://www.instagram.com/p/Cg-LYgdD8NJ/
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+Home page
+![Home page](https://github.com/tranphuc269/vintage_cars/blob/main/assets/demo_1.png)
+Detail car
+![Detail car](https://github.com/tranphuc269/vintage_cars/blob/main/assets/demo_2.png)
